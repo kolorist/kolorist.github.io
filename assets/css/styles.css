@@ -369,6 +369,7 @@ background:#fff;
 }
 #portfolio .btn-default {
 	border: 0;
+	padding: 0px 0px;
 }
 #contact {
 	background: #ecdac4;
@@ -527,10 +528,6 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 	transition: transform 0.4s;
 }
 .no-touch .overlay figure:hover img, .overlay figure.cs-hover img {
-	-webkit-transform: translateY(-30px);
-	-moz-transform: translateY(-30px);
-	-ms-transform: translateY(-30px);
-	transform: translateY(-30px);
 }
 .overlay figcaption {
 	height: 100%;
